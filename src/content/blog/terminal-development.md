@@ -14,8 +14,6 @@ tags:
 ogImage: ''
 description: 'EXAMPLE POST: Developing a terminal-like website using ReactJS, TypeScript and Styled-Components. Includes features like autocomplete, multiple themes, command hints etc.'
 ---
-
-
 > This article is originally from my [blog post](https://satnaing.dev/blog/posts/how-do-i-develop-my-terminal-portfolio-website-with-react). I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.
 
 Developing a terminal-like website using ReactJS, TypeScript and Styled-Components. Includes features like autocomplete, multiple themes, command hints etc.
@@ -44,11 +42,11 @@ This project doesn’t need very complex state management. I just use ContextAPI
 
 Here’s a quick recap for the tech stack.
 
-- Frontend: [ReactJS](https://reactjs.org/ "React Website"), [TypeScript](https://www.typescriptlang.org/ "TypeScript Website")
-- Styling: [Styled-Components](https://styled-components.com/ "Styled-Components Website")
-- UI/UX: [Figma](https://figma.com/ "Figma Website")
-- State Management: [ContextAPI](https://reactjs.org/docs/context.html "React ContextAPI")
-- Deployment: [Netlify](https://www.netlify.com/ "Netlify Website")
+- Frontend: [ReactJS](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/)
+- Styling: [Styled-Components](https://styled-components.com/)
+- UI/UX: [Figma](https://figma.com/)
+- State Management: [ContextAPI](https://reactjs.org/docs/context.html)
+- Deployment: [Netlify](https://www.netlify.com/)
 
 ## Features
 
@@ -84,5 +82,5 @@ This is a really fun project, and one special part of this project is I had to f
 
 ## Project Links
 
-- Website: [https://terminal.satnaing.dev/](https://terminal.satnaing.dev/ "https://terminal.satnaing.dev/")
-- Repo: [https://github.com/satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio "https://github.com/satnaing/terminal-portfolio")
+- Website: [https://terminal.satnaing.dev/](https://terminal.satnaing.dev/)
+- Repo: [https://github.com/satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio)
